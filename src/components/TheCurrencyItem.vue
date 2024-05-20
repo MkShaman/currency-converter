@@ -8,9 +8,10 @@
       <label for="base_currency_input" class="text-base">{{ currency.code }}</label>
       <div class="relative flex w-full flex-col">
         <input
-          type="number"
+          type="text"
           class="rounded-md border border-slate-300 px-4 py-2 text-sm"
-          :value="currency.value * currency.rate"
+          :value="(currency.value ? currency.value : 0) * currency.rate"
+          pattern="^\d+(\.\d+)?$"
           @input="updateCurrency(index, $event)"
         />
         <span class="absolute -bottom-4 right-0 text-right text-xs font-light">{{
