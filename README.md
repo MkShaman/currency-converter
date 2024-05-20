@@ -1,4 +1,4 @@
-# Currency Converter
+# Currency Converter ([Live Demo](https://vue-currency-converter.onrender.com/))
 
 ![Vue 3](https://img.shields.io/badge/-Vue%203-blue?style=flat-square&logo=vuedotjs)
 ![Pinia](https://img.shields.io/badge/-Pinia-purple?style=flat-square&logo=pinia)
@@ -7,8 +7,6 @@
 Currency Converter is an app built using modern technologies such as Vue 3, Pinia, Vite, and the ExchangeRatesAPI.
 
 ## Description
-
-## [Live Demo](https://vue-currency-converter.onrender.com/)
 
 Currency Converter allows users to easily convert one currency to another using current exchange rates. The application provides an intuitive interface and supports many currencies.
 
