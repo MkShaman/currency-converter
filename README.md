@@ -8,7 +8,7 @@ Currency Converter is an app built using modern technologies such as Vue 3, Pini
 
 ## Description
 
-## [Live Demo]{https://vue-currency-converter.onrender.com/}
+## [Live Demo](https://vue-currency-converter.onrender.com/)
 
 Currency Converter allows users to easily convert one currency to another using current exchange rates. The application provides an intuitive interface and supports many currencies.
 
