@@ -19,7 +19,16 @@ Currency Converter allows users to easily convert one currency to another using 
 
 ## Installation
 
-To get started with the project, install dependencies:
+To get started with the project, add a **.env** file to the project root and add variables.
+
+```sh
+VITE_APP_ROOT_API=https://api.exchangeratesapi.net/v1/exchange-rates/
+
+VITE_APP_ACCESS_KEY=<YOUR_API_KEY>
+
+```
+
+You can get API Key [here](https://api.exchangeratesapi.net)
 
 ## Project Setup
 
