@@ -30,4 +30,4 @@ coverage
 *.tsbuildinfo
 
 .env
-assets/output.css
+src/assets/output.css
