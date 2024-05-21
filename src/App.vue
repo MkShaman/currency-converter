@@ -15,10 +15,5 @@ processFiatCurrencyData()
       <TheCurrencyItem />
       <TheSelect />
     </form>
-    <!--<div
-      class="mx-auto my-5 w-full max-w-sm divide-y divide-dotted divide-slate-300 rounded-md bg-white px-5 py-3 text-sm shadow"
-    >
-      Currency Convertor on Vue.js
-    </div>-->
   </div>
 </template>
