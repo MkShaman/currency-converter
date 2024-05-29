@@ -99,5 +99,4 @@ watchEffect(() => {
 function toggleDropdown() {
   isOpen.value = !isOpen.value
 }
-console.log(import.meta.env.VITE_APP_ROOT_API)
 </script>
